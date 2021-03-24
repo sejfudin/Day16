@@ -1,0 +1,36 @@
+#header {
+    font-size: 24px;
+}
+
+.nav-links {
+    margin: 10px;
+    border-bottom: 1px solid black;
+}
+
+.nav-links a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+#navbar {
+    position: absolute;
+    width: 300px;
+    height: auto;
+    float: left;
+    left: 0;
+    border-right: 1px solid black;
+}
+
+#header-img {
+    width: 250px;
+}
+
+#main-doc {
+    position: absolute;
+    margin: 0 20px;
+    left: 300px;
+    float: right;
+}
